@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://anita224.github.io/goit-js-hw-008",
+  "homepage": "https://anita224.github.io/hw-008",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-008/"
+    "build": "parcel build src/*.html --public-url /hw-008/"
   },
   "repository": {
     "type": "git",
